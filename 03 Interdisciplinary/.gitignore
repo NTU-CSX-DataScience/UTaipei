@@ -1,0 +1,13 @@
+.idea/
+
+/data/*
+# unignore everything in WE_StatWohneinteilungen
+!/data/WE_StatWohneinteilungen/
+!/data/WE_StatWohneinteilungen/*
+
+!/data/basel_shapefiles/
+
+.ipynb_checkpoints/
+
+*.pdf
+*.svg
