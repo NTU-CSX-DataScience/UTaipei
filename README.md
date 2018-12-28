@@ -3,7 +3,7 @@ Data Visualization with Python
 
 [01. Numerical](http://www.randalolson.com/2015/07/14/rethinking-the-population-pyramid/)
 
-[02. Textual]()
+[02. Textual](https://ntu-csx-datascience.github.io/UTaipei/02%20Textual/Apriori.html)
 
 [03. Interdisciplinary]()
 
