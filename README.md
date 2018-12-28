@@ -5,7 +5,7 @@ Data Visualization with Python
 
 [02. Textual](https://ntu-csx-datascience.github.io/UTaipei/02%20Textual/Apriori.html)
 
-[03. Interdisciplinary]()
+[03. Interdisciplinary](https://ntu-csx-datascience.github.io/UTaipei/03%20Interdisciplinary/Notebook.slides.html)
 
 [Meta Kaggle: What happened to the team size?](https://www.kaggle.com/gpreda/meta-kaggle-what-happened-to-the-team-size)
 
